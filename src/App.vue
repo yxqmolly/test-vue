@@ -22,7 +22,7 @@
 </template>
 
 <script setup>
-import { watch } from 'vue';
+import {watch } from 'vue';
 import { ref } from 'vue';
 import { useRoute, useRouter } from 'vue-router';
 
